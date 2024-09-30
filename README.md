@@ -3,14 +3,3 @@ A deep learning-based project designed to detect and analyze boxing form using a
 
 https://github.com/user-attachments/assets/fa896a62-a538-4166-8022-85fed1e68093
 
-
-Installation
-Clone the repository:
-git clone https://github.com/pratham-agrawal/BoxingForm-AI.git
-Install the required dependencies:
-pip install -r requirements.txt
-
-Usage
-Run the real-time form detector:
-python form_detector.py
-Record your boxing session and get feedback on your form directly in the console.
