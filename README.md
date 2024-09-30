@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/fa896a62-a538-4166-8022-85fed1e68093
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/boxing-form-detector.git
+git clone https://github.com/pratham-agrawal/BoxingForm-AI.git
 Install the required dependencies:
 pip install -r requirements.txt
 
